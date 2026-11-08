@@ -1,0 +1,6 @@
+/build/
+.DS_Store
+*.keystore
+*.jks
+*.apk
+compile_commands.json
